@@ -6,7 +6,7 @@ The goal is to convert PDF documents into WiKi pages.
 
 | File                    | Contents                                           | WiKified |
 | ------                  | ------                                             | ------   |
-| boot.pdf                | Running A Program At Start Up - A Beginner's Guide | [boot](wiki/Boot) |
+| boot.pdf                | Running A Program At Start Up - A Beginner's Guide | [boot](../wiki/Boot) |
 | cron.pdf                | Cron A - Beginner's Guide                          |          |
 | ethernetgadget.pdf      | USB Ethernet Gadget - A Beginner's Guide           |          |
 | fstab.pdf               | Using fstab - A Beginner's Guide                   |          |
